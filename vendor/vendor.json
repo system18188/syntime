@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "133tWx9kw1FFsbyfu6AyVPIaQeU=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "33a1e118e113c7d1dd24a80f80670864cd598519",
+			"revisionTime": "2018-09-19T11:51:26Z"
+		},
+		{
+			"checksumSHA1": "BGm8lKZmvJbf/YOJLeL1rw2WVjA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "0e37d006457bf46f9e6692014ba72ef82c33022c",
+			"revisionTime": "2018-06-14T19:19:50Z"
+		},
+		{
+			"checksumSHA1": "rpVGMdgqNVY3sYQZg2RPtiwPzsY=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "d0be0721c37eeb5299f245a996a483160fc36940",
+			"revisionTime": "2018-09-09T03:34:56Z"
+		},
+		{
+			"checksumSHA1": "wvpEa7a7bm3i833AmLpSarI51Yc=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "d0be0721c37eeb5299f245a996a483160fc36940",
+			"revisionTime": "2018-09-09T03:34:56Z"
+		}
+	],
+	"rootPath": "syntime"
+}

@@ -1,0 +1,10 @@
+/cmd/syntime/syntime
+.vscode
+.idea
+*.iml
+*.ipr
+*.iws
+.idea
+syntime
+*.sublime-project
+*.sublime-workspace
