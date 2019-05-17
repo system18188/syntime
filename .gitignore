@@ -6,5 +6,7 @@
 *.iws
 .idea
 syntime
+syntime_windows.exe
+syntime_linux
 *.sublime-project
 *.sublime-workspace

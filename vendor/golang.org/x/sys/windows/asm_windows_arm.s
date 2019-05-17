@@ -1,13 +1,11 @@
-// Based on ssh/terminal:
 // Copyright 2018 The Go Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// +build appengine
+#include "textflag.h"
 
-package logrus
+TEXT ·getprocaddress(SB),NOSPLIT,$0
+	B	syscall·getprocaddress(SB)
 
-import "io"
-
-func initTerminal(w io.Writer) {
-}
+TEXT ·loadlibrary(SB),NOSPLIT,$0
+	B	syscall·loadlibrary(SB)

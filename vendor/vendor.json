@@ -3,29 +3,53 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "133tWx9kw1FFsbyfu6AyVPIaQeU=",
+			"checksumSHA1": "Aulh7C5SVOA4Jzt5eHNH6197Mbk=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "f55edac94c9bbba5d6182a4be46d86a2c9b5b50e",
+			"revisionTime": "2019-02-26T22:47:05Z"
+		},
+		{
+			"checksumSHA1": "mDNBjIi/nvEt2poJ+qdeyosk/IM=",
 			"path": "github.com/sirupsen/logrus",
-			"revision": "33a1e118e113c7d1dd24a80f80670864cd598519",
-			"revisionTime": "2018-09-19T11:51:26Z"
+			"revision": "dae0fa8d5b0c810a8ab733fbd5510c7cae84eca4",
+			"revisionTime": "2019-03-11T16:20:41Z"
 		},
 		{
-			"checksumSHA1": "BGm8lKZmvJbf/YOJLeL1rw2WVjA=",
+			"checksumSHA1": "Zsm3tvgRFJOt3afwwhrGymcSZgg=",
 			"path": "golang.org/x/crypto/ssh/terminal",
-			"revision": "0e37d006457bf46f9e6692014ba72ef82c33022c",
-			"revisionTime": "2018-06-14T19:19:50Z"
+			"revision": "88737f569e3a9c7ab309cdc09a07fe7fc87233c3",
+			"revisionTime": "2019-04-11T09:50:52Z"
 		},
 		{
-			"checksumSHA1": "rpVGMdgqNVY3sYQZg2RPtiwPzsY=",
+			"checksumSHA1": "OabEbbJcLc/KKRyAevJpUsi2Ssc=",
 			"path": "golang.org/x/sys/unix",
-			"revision": "d0be0721c37eeb5299f245a996a483160fc36940",
-			"revisionTime": "2018-09-09T03:34:56Z"
+			"revision": "4b34438f7a67ee5f45cc6132e2bad873a20324e9",
+			"revisionTime": "2019-04-05T15:09:22Z"
 		},
 		{
-			"checksumSHA1": "wvpEa7a7bm3i833AmLpSarI51Yc=",
+			"checksumSHA1": "aSRB7hpfVTSX2fx/Xo8+wr9WMNI=",
 			"path": "golang.org/x/sys/windows",
-			"revision": "d0be0721c37eeb5299f245a996a483160fc36940",
-			"revisionTime": "2018-09-09T03:34:56Z"
+			"revision": "4b34438f7a67ee5f45cc6132e2bad873a20324e9",
+			"revisionTime": "2019-04-05T15:09:22Z"
+		},
+		{
+			"checksumSHA1": "H6gLWlL8VFeATRpnoh/dCU4/hwY=",
+			"path": "syntime/pkg/config",
+			"revision": "664186ca5094d8300da5adf21a750eda032e5e55",
+			"revisionTime": "2019-04-21T03:29:39Z"
+		},
+		{
+			"checksumSHA1": "sllVkLusgvDRHg4kuqe3DJ17eaM=",
+			"path": "syntime/pkg/route",
+			"revision": "664186ca5094d8300da5adf21a750eda032e5e55",
+			"revisionTime": "2019-04-21T03:29:39Z"
+		},
+		{
+			"checksumSHA1": "pycbxI56UgS4PBLWh63cFFMMSpc=",
+			"path": "syntime/pkg/scheduler",
+			"revision": "664186ca5094d8300da5adf21a750eda032e5e55",
+			"revisionTime": "2019-04-21T03:29:39Z"
 		}
 	],
-	"rootPath": "syntime"
+	"rootPath": "syntime/cmd/syntime"
 }
