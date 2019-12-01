@@ -1,4 +1,4 @@
-/cmd/syntime/syntime
+cmd/syntime/syntime*
 .vscode
 .idea
 *.iml
@@ -6,6 +6,8 @@
 *.iws
 .idea
 syntime
+syntime*.7z
+syntime.exe
 syntime_windows.exe
 syntime_linux
 *.sublime-project
