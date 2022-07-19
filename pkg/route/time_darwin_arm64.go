@@ -1,4 +1,4 @@
-// +build darwin
+//go:build darwin || arm64
 
 package route
 
